@@ -1,9 +1,15 @@
 /*  your css code here. If applicable */
-/*  your css code here. If applicable */
-.container{
-	background-color:#ADD8E6;
-	border:2px;
-	display:inline-block;
-	padding:100px;
-	color:purple;
+div.box1{
+	border: 2px solid black;
+}
+.box{
+	border: 2px solid black;
+	display: inline-block;
+	padding: 100px;
+	color: purple;
+	background-color: lightblue;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	
 }
